@@ -84,7 +84,7 @@ All entities created with `interface` keyword should follow the following patter
 All entities created with `type` keyword should follow the following pattern:
   ```<PascalCase>```
 
-### Classes fields
+### Classes fields order
 
 Use next order of class fields:
 1. `@Input`
